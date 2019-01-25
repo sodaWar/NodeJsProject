@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daed051b-da6b-4aa1-82a2-ac1fc71369f4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="test11.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youtube_video/test11.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/youtube_video/test11.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/test_youtube/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/clean-css/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/jade/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/serve-favicon/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/transformers/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/transformers/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/transformers/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/transformers/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/transformers/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/with/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/test_youtube/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="261" />
+    <option name="y" value="59" />
+    <option name="width" value="1245" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebStormProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebStormProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebStormProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="youtube_video" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daed051b-da6b-4aa1-82a2-ac1fc71369f4" name="Default" comment="" />
+      <created>1524903254487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524903254487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15989584" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/youtube_video/test11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
